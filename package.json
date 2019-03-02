@@ -1,0 +1,19 @@
+{
+    "name": "element-closest-polyfill",
+    "version": "1.0.0",
+    "description": "A minimal polyfill for Element.closest",
+    "license": "MIT",
+    "repository": "idmadj/element-closest-polyfill",
+    "main": "index.js",
+    "keywords": [
+        "element",
+        "closest",
+        "css",
+        "polyfill",
+        "microsoft",
+        "ie",
+        "msie",
+        "npm",
+        "package"
+    ]
+}
