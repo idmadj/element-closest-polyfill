@@ -2,7 +2,7 @@
     "name": "element-closest-polyfill",
     "version": "1.0.1",
     "description": "A minimal polyfill for Element.closest",
-    "license": "MIT",
+    "license": "ISC",
     "repository": "idmadj/element-closest-polyfill",
     "main": "index.js",
     "keywords": [
