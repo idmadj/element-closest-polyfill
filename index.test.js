@@ -1,3 +1,7 @@
+/**
+ * @jest-environment jsdom
+ */
+
 require('./index.js');
 
 let article, div1, div2, div3;
