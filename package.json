@@ -1,6 +1,6 @@
 {
     "name": "element-closest-polyfill",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A minimal polyfill for Element.closest",
     "license": "ISC",
     "repository": "idmadj/element-closest-polyfill",
