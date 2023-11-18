@@ -21,6 +21,7 @@
         "prepublishOnly": "npm test"
     },
     "devDependencies": {
-        "jest": "^27.5.1"
+        "jest": "^29.7.0",
+        "jest-environment-jsdom": "^29.7.0"
     }
 }
